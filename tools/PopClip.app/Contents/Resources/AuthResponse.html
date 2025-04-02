@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>%TITLE%</title>
+  <style>
+    :root {
+      --bg: rgb(255, 255, 255);
+      --pri: rgb(50, 50, 50);
+      --sec: rgb(100, 100, 100);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: rgb(45, 45, 48);
+        --pri: rgb(199, 198, 198);
+        --sec: rgb(146, 146, 146);
+      }
+    }
+    html {
+      margin: 2em 2em;
+      color: var(--pri);
+      background-color: var(--bg);
+      font-size: 20px;  
+      font-family: Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+      text-align: center;
+    }
+    div {
+      padding: 1em;
+      margin: 1em;
+      display: inline-block;
+    }
+    div.message {
+      padding: 1em;
+      border: 0.075em solid var(--sec);
+      border-radius: 0.5em;      
+    }
+    div.info {
+      color: var(--sec);
+      text-align: left;
+      font-size: 0.8em; 
+    }
+    div.info pre {
+      font-size: 0.8em;
+    }
+    .sec {
+      color: var(--sec)
+    }
+  </style>
+</head>
+<body>
+  <div class="message">
+    <strong>%MESSAGE%</strong><br>
+    <span class="sec">%INSTRUCTION%</span>
+  </div><br>
+  <div class="info">%INFO%</div>
+</body>
+</html>
