@@ -1,0 +1,46 @@
+G	AD	Era	Era
+GGGG	Anno Domini	Era	Era
+GGGGG	A	Era	Era
+yy	21	Year	Year
+yyyy	2021	Year	Year
+Y	2021	Year	Year of “Week of Year”
+Q	2	Quarter	Quarter
+QQ	02	Quarter	Quarter
+QQQ	Q2	Quarter	Quarter
+QQQQ	2nd quarter	Quarter	Quarter
+M	9	Month	Month
+MM	09	Month	Month
+MMM	Sep	Month	Month
+MMMM	September	Month	Month
+MMMMM	S	Month	Month
+w	7	Week	Week of Year
+ww	07	Week	Week of Year
+W	2	Week	Week of Month
+d	2	Day	Day in Month
+dd	02	Day	Day in Month
+D	189	Day	Day of Year
+F	2 (2nd Wed in July)	Day	Day of Week in Month
+g	2459468	Day	Modified Julian Day
+E	Tue	Day of Week	Day of Week
+EEEE	Tuesday	Day of Week	Day of Week
+EEEEE	T	Day of Week	Day of Week
+EEEEEE	Tu	Day of Week	Day of Week
+a	pm	AM/PM	AM/PM Marker
+h	7	Hour	Hour in AM/PM (1-12)
+hh	07	Hour	Hour in AM/PM (1-12)
+H	0	Hour	Hour in Day (0-23)
+HH	00	Hour	Hour in Day (0-23)
+m	4	Minute	Minute
+mm	04	Minute	Minute
+s	5	Second	Second
+ss	05	Second	Second
+S	5	Second	Fractional Second
+SS	05	Second	Fractional Second
+SSS	005	Second	Fractional Second
+A	61201235	Second	Milliseconds in Day
+z	PDT	Time Zone	Time Zone
+zzzz	Pacific Daylight Time	Time Zone	Time Zone
+Z	-800	Time Zone	Time Zone from GMT
+ZZZZ	GMT-08:00	Time Zone	Time Zone from GMT
+'text'	text	Escaped	Escaped Text
+''	'	Escaped	Single Quote

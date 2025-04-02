@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string></string>
+	<key>AuthorURL</key>
+	<string></string>
+	<key>CanDragToMacroGroup</key>
+	<true/>
+	<key>Category1</key>
+	<string>Clipboards</string>
+	<key>Category2</key>
+	<string>Interface Control</string>
+	<key>Description</key>
+	<string>Use the status menu or ⌃⌥⇧⌘B and then select a text clipboard from the clipboard history to quickly paste it anywhere.</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>453018705.83122802</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>ActionUID</key>
+							<integer>54308</integer>
+							<key>AllowMultiple</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>PasteByName</string>
+							<key>NotifyOnFailure</key>
+							<false/>
+							<key>PromptUID</key>
+							<string>23C23B14-F6FF-42B0-A8BB-D7FF836B6350</string>
+							<key>Sort</key>
+							<false/>
+							<key>StopOnFailure</key>
+							<false/>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>656917676.85611904</real>
+					<key>ModificationDate</key>
+					<real>656917682.87204599</real>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>MacroTriggerType</key>
+							<string>StatusMenu</string>
+						</dict>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>11</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>6912</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>E18509B7-4187-48C3-9C6D-235773011F82</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Global Macro Group</string>
+			<key>ToggleMacroUID</key>
+			<string>778C08EB-14C4-4747-AF9E-ABD7E90CDA90</string>
+			<key>UID</key>
+			<string>DA8512F7-F323-46B1-8319-752E0495CFD0</string>
+		</dict>
+	</array>
+	<key>UID</key>
+	<string>F2557F51-D5DF-461E-A247-2D907DF73FC5</string>
+</dict>
+</plist>

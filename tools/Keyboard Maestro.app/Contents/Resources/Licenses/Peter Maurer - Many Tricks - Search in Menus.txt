@@ -1,0 +1,1 @@
+Thanks to Peter Maurer from Many Tricks for his assistance in getting the search field in menus working.
